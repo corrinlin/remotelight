@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="disclaimer">
+ <title>Legal Disclaimer</title>
+ <shortdesc>Legal disclaimer for using the remote light</shortdesc>
+ <conbody>
+  <p id="legal">Be careful when you use it because there might be some electric shock. The device or lightbulb
+   should not be dunked in water and your hands should be dry when you are operating it. </p>
+ </conbody>
+</concept>

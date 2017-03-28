@@ -85,7 +85,9 @@
                         href="#how-to-program-bulbs-to-groups/step-turn-power-off" format="dita"
                     />.</cmd>
             </step>
-          
         </steps>
+        <postreq>
+            <p conref="c-legaldisclaimer.dita#disclaimer/legal"></p>
+        </postreq>
     </taskbody>
 </task>
